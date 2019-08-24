@@ -1,0 +1,55 @@
+
+
+
+Every Email, shopping, social media you have go into the privacy settings and “pause” everything that you do not like. Also turn off anything that can track your voice, geolocation, msgs, emails, etc as you see fit.
+If you want total anon then make a completely new identity for yourself after you switch your connection
+I may leave a link idk but most ppl don’t need it.
+
+
+Brave
+Tor
+Pi hole
+Host File
+Click&Clean
+DuckDuckGo Privacy Essentials
+Google Analytics Opt-out Add-on
+HTTPS Everywhere
+URL Tracking Stripper & Redirect Skipper
+
+uBlock Orgin
+uBlock Origin rulesets - JUST COPY PASTE to My Rules in uBlock Origin settings and save
+To block all Google trackers
+* admob.com * block
+* adsensecustomsearchads.com * block
+* adwords.com * block
+* doubleclick.net * block
+* fonts.googleapis.com * block
+* google-analytics.com * block
+* google.com * block
+* googleadservices.com * block
+* googleapis.com * block
+* googlesyndication.com * block
+* googletagmanager.com * block
+* googletagservices.com * block
+* googletraveladservices.com * block
+* googleusercontent.com * block
+* gstatic.com * block
+* urchin.com * block
+* youtube.com * block
+* ytimg.com * block
+
+To allow youtube.com
+www.youtube.com content.googleapis.com * noop
+www.youtube.com ggpht.com * noop
+www.youtube.com google.com * noop
+www.youtube.com googleusercontent.com * noop
+www.youtube.com googlevideo.com * noop
+www.youtube.com gstatic.com * noop
+www.youtube.com plus.googleapis.com * noop
+www.youtube.com youtube-nocookie.com * noop
+www.youtube.com ytimg.com * noop
+Privacy Badger
+Tampermonkey
+Anti-Adblock Killer | Reek
+
+FlowCrypt: Encrypt Gmail with PGP
