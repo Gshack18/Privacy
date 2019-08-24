@@ -1,7 +1,7 @@
 
 
 
-## Every Email, shopping, social media you have go into the privacy settings and “pause” everything that you do not like. Also turn off anything that can track your voice, geolocation, msgs, emails, etc as you see fit.
+##Every Email, shopping, social media you have go into the privacy settings and “pause” everything that you do not like. Also turn off anything that can track your voice, geolocation, msgs, emails, etc as you see fit.
 If you want total anon then make a completely new identity for yourself after you switch your connection
 I may leave a link idk but most ppl don’t need it.
 
@@ -17,8 +17,8 @@ I may leave a link idk but most ppl don’t need it.
 -URL Tracking Stripper & Redirect Skipper
 
 -uBlock Orgin
-## uBlock Origin rulesets - JUST COPY PASTE to My Rules in uBlock Origin settings and save
-## To block all Google trackers
+##uBlock Origin rulesets - JUST COPY PASTE to My Rules in uBlock Origin settings and save
+##To block all Google trackers
 * admob.com * block
 * adsensecustomsearchads.com * block
 * adwords.com * block
