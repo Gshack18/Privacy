@@ -3,14 +3,18 @@ Every Email, shopping, social media you have go into the privacy settings and â€
 **If you want total anon then make a completely new identity for yourself after you switch your connection**
 
 We all use google for whatever reason but check your privacy settings with them here. Pause Eerything basiucally and delete all history
+
 https://www.youtube.com/watch?v=vA9Z0Wr9vwE
+
 (Watch the entire video before you go on)
+
 https://myactivity.google.com/myactivity
 
 For Facebook here is a small video
 https://youtu.be/SuY-XxcYeqE
+
 ------------
-I may leave a link idk but most ppl donâ€™t need it.
+I may leave a link idk but most ppl dont need it.
 ------------
 
 
