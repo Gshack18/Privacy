@@ -14,10 +14,13 @@ I may leave a link idk but most ppl don’t need it.
 ------------
 
 
--[-Brave](https://brave.com/ "-Brave")
--[-Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor")
--[-Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole")
--[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File")
+[-Brave](https://brave.com/ "-Brave") - A broswer that does privacy first
+
+[-Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor") Another browser that uses many other servers in the middle to protect your location
+
+[-Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
+
+-[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File") Redirects server calls back to localhost and not the the company.
 
 [-Privacy Badger](https://www.eff.org/privacybadger "-Privacy Badger")
 
@@ -32,16 +35,16 @@ Tampermonkey (stable): https://chrome.google.com/webstore/detail/dhdgffkkebhmkfj
 
 -Google Analytics Opt-out Add-on (search for it please)
 
-[-HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere")
+[-HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere") Without this websites uses the lowest security settings set forth.
 
-[-URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper")
+[-URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper") Stops url links from phoning home and tracking you from site to site.
 
 Bypass Paywalls
 
-https://reek.github.io/anti-adblock-killer/
+https://reek.github.io/anti-adblock-killer/ Allows you to bypass paywalls to zee websites as intended.
 
 -[uBlock Orgin](https://github.com/gorhill/uBlock/ "uBlock Orgin")
-
+ Biggest blocker to stop mostly trackers/ads
 How to install yourself
 
 https://github.com/gorhill/uBlock/tree/master/dist#install
