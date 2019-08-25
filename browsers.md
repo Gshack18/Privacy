@@ -8,17 +8,27 @@ I may leave a link idk but most ppl don’t need it.
 
 
 [-Brave](https://brave.com/ "-Brave")
+
 [-Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor")
+
 [-Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole")
+
 [-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File")
+
 [-Privacy Badger](https://www.eff.org/privacybadger "-Privacy Badger")
+
 [Tampermonkey](https://github.com/Tampermonkey/tampermonkey "Tampermonkey")
+
 How to insall 
+
 Tampermonkey (stable): https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
 [-Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean")
 [-DuckDuckGo Privacy Essentials](https://www.trishtech.com/2018/01/duckduckgo-privacy-essentials-extension-enhances-online-privacy/ "-DuckDuckGo Privacy Essentials")
+
 -Google Analytics Opt-out Add-on
+
 [-HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere")
+
 [-URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper")
 
 Bypass Paywalls
