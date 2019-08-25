@@ -61,7 +61,7 @@ OR
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 > uBlock Origin rulesets - JUST COPY PASTE to My Rules in uBlock Origin settings and save
 
-##To block all Google trackers
+## To block all Google trackers
 
 - * admob.com * block
 - * adsensecustomsearchads.com * block
