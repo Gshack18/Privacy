@@ -32,15 +32,20 @@ Tampermonkey (stable): https://chrome.google.com/webstore/detail/dhdgffkkebhmkfj
 [-URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper")
 
 Bypass Paywalls
+
 https://reek.github.io/anti-adblock-killer/
+
 -[uBlock Orgin](https://github.com/gorhill/uBlock/ "uBlock Orgin")
 
 How to install yourself
+
 https://github.com/gorhill/uBlock/tree/master/dist#install
 OR
+
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 > uBlock Origin rulesets - JUST COPY PASTE to My Rules in uBlock Origin settings and save
 ##To block all Google trackers
+
 - * admob.com * block
 - * adsensecustomsearchads.com * block
 - * adwords.com * block
