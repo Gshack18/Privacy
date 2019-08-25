@@ -2,18 +2,22 @@
 Every Email, shopping, social media you have go into the privacy settings and “pause” everything that you do not like. Also turn off anything that can track your voice, geolocation, msgs, emails, etc as you see fit.
 **If you want total anon then make a completely new identity for yourself after you switch your connection**
 
+We all use google for whatever reason but check your privacy settings with them here. Pause Eerything basiucally and delete all history
+https://www.youtube.com/watch?v=vA9Z0Wr9vwE
+(Watch the entire video before you go on)
+https://myactivity.google.com/myactivity
+
+For Facebook here is a small video
+https://youtu.be/SuY-XxcYeqE
 ------------
 I may leave a link idk but most ppl don’t need it.
 ------------
 
 
-[-Brave](https://brave.com/ "-Brave")
-
-[-Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor")
-
-[-Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole")
-
-[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File")
+-[-Brave](https://brave.com/ "-Brave")
+-[-Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor")
+-[-Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole")
+-[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File")
 
 [-Privacy Badger](https://www.eff.org/privacybadger "-Privacy Badger")
 
@@ -22,10 +26,11 @@ I may leave a link idk but most ppl don’t need it.
 How to insall 
 
 Tampermonkey (stable): https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
 [-Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean")
 [-DuckDuckGo Privacy Essentials](https://www.trishtech.com/2018/01/duckduckgo-privacy-essentials-extension-enhances-online-privacy/ "-DuckDuckGo Privacy Essentials")
 
--Google Analytics Opt-out Add-on
+-Google Analytics Opt-out Add-on (search for it please)
 
 [-HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere")
 
@@ -44,6 +49,7 @@ OR
 
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 > uBlock Origin rulesets - JUST COPY PASTE to My Rules in uBlock Origin settings and save
+
 ##To block all Google trackers
 
 - * admob.com * block
