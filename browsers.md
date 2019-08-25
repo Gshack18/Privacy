@@ -13,6 +13,10 @@ https://myactivity.google.com/myactivity
 For Facebook here is a small video
 https://youtu.be/SuY-XxcYeqE
 
+BTW if you have an IOS such as iphone/ipad easy app would help you called
+https://www.jumboprivacy.com/
+Once set up remove it and be done with it knowing your good until compaies change their policy again.
+
 ------------
 I may leave a link idk but most ppl dont need it.
 ------------
