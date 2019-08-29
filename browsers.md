@@ -40,13 +40,16 @@ Here is most of infomation on what i use to browse the web as safe from psying e
 - ***[Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor") Another browser that uses many other servers in the middle to protect your location
 - ***[Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
 
-> A much easier way beiow
+>Most important thing to get because it protects all devices on the network
+
+A much easier way beiow
 
 - Pi hole within [docker](https://www.docker.com/get-started "docker") without using a pi go here
 
 https://homenetworkguy.com/how-to/install-pihole-on-raspberry-pi-with-docker-and-portainer/
 
 You will need a list so I suggest  to run this command within your pi via ssh, vnc, etc
+
 Open terminal and type this
 `sudo nano /etc/pihole/adlists.list`
 to look this over here
