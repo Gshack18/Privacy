@@ -22,7 +22,7 @@ Once set up remove it and be done with it knowing your good until compaies chang
 I may leave a link idk but most ppl dont need it.
 ------------
 
-Here is most of infomation on what i use to browse the web as safe from psying eyes as possible. This only works best AFTER you have paused/cleaned up the websites as seen above. These things below just help protect you moving on because of the many diferent tactics websites use to steal that info from cookies, cache, trapnsport layering, ip, geo trak, etc to name a few.
+Here is most of infomation on what i use to browse the web as safe from psying eyes as possible. This only works best AFTER you have paused/cleaned up the websites as seen above. These things below just help protect you moving on because of the many diferent tactics websites use to steal that info from cookies, cache, trapnsport layering, ip, geo trak, etc to name a few. Most addons below are opensource meaning you can look at the code and see exactly what it does and handles the OSI model. IU went through each link and read the source as well as its forums to see if it can become shady or not do what it claims.
 - [Brave](https://brave.com/ "-Brave") - A broswer that does privacy first
 - [Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor") Another browser that uses many other servers in the middle to protect your location
 - [Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
