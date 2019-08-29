@@ -6,7 +6,7 @@
 
 
 
-#About this research
+# About this research
 
 
 After months of doing research I have came to the conclusion of understaing what companies are doing and thus using methods to stop as much as I can. We have to understand that if the product is **FREE** [Many websites now sell our access to ad companies and whoever seems fit](https://www.vox.com/2018/4/11/17177842/facebook-advertising-ads-explained-mark-zuckerberg "Many websites now sell our access to ad companies and whoever seems fit") I believe this is wrong and we now have the ability to see what is being sold to these companies as [seen here](https://gdpr-info.eu/ "seen here") by allowing us to access these data points as seen [here](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation "here") and googles way [here](https://www.wikihow.com/Download-Your-Google-Data "here") 
