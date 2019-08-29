@@ -46,6 +46,13 @@ Here is most of infomation on what i use to browse the web as safe from psying e
 
 https://homenetworkguy.com/how-to/install-pihole-on-raspberry-pi-with-docker-and-portainer/
 
+You will need a list so I suggest  to run this command within your pi via ssh, vnc, etc
+Open terminal and type this
+`sudo nano /etc/pihole/adlists.list`
+to look this over here
+https://wally3k.github.io/ 
+then paste a few of these urls inside the adlists.list you have open in pihole
+
 -[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File") Redirects server calls back to localhost and not the the company.
 ## Extensions that are used to protect your privacy 
 >ea one has different blockers
