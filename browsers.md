@@ -27,24 +27,19 @@ I may leave a link idk but most ppl dont need it.
 - [Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
 
 -[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File") Redirects server calls back to localhost and not the the company.
+## Extenstions
 
-[-Privacy Badger](https://www.eff.org/privacybadger "-Privacy Badger")
+- [Privacy Badger](https://www.eff.org/privacybadger "-Privacy Badger")
+- [Tampermonkey](https://github.com/Tampermonkey/tampermonkey "Tampermonkey")
 
-[Tampermonkey](https://github.com/Tampermonkey/tampermonkey "Tampermonkey")
+> How to insall 
 
-How to insall 
-
-Tampermonkey (stable): https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
-
-[-Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean")
-[-DuckDuckGo Privacy Essentials](https://www.trishtech.com/2018/01/duckduckgo-privacy-essentials-extension-enhances-online-privacy/ "-DuckDuckGo Privacy Essentials")
-
--Google Analytics Opt-out Add-on (search for it please)
-
-[-HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere") Without this websites uses the lowest security settings set forth.
-
-[-URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper") Stops url links from phoning home and tracking you from site to site.
-
+ https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+- [Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean")
+- [DuckDuckGo Privacy Essentials](https://www.trishtech.com/2018/01/duckduckgo-privacy-essentials-extension-enhances-online-privacy/ "-DuckDuckGo Privacy Essentials")
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere") Without this websites uses the lowest security settings set forth.
+- [URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper") Stops url links from phoning home and tracking you from site to site.
+- Google Analytics Opt-out Add-on (search for it please)
 Bypass Paywalls
 
 https://reek.github.io/anti-adblock-killer/ Allows you to bypass paywalls to zee websites as intended.
