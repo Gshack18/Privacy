@@ -28,7 +28,9 @@ Here is most of infomation on what i use to browse the web as safe from psying e
 - [Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
 
 > A much easier way beiow
-Pi hole within [docker](https://www.docker.com/get-started "docker") without using a pi go here
+
+- Pi hole within [docker](https://www.docker.com/get-started "docker") without using a pi go here
+
 https://homenetworkguy.com/how-to/install-pihole-on-raspberry-pi-with-docker-and-portainer/
 
 -[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File") Redirects server calls back to localhost and not the the company.
