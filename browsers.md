@@ -25,6 +25,8 @@ I may leave a link idk but most ppl dont need it.
 - [Brave](https://brave.com/ "-Brave") - A broswer that does privacy first
 - [Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor") Another browser that uses many other servers in the middle to protect your location
 - [Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
+A much easier way to do pi hole within [docker](https://www.docker.com/get-started "docker") without using a pi go here
+https://homenetworkguy.com/how-to/install-pihole-on-raspberry-pi-with-docker-and-portainer/
 
 -[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File") Redirects server calls back to localhost and not the the company.
 ## Extenstions
@@ -44,13 +46,12 @@ Bypass Paywalls
 
 https://reek.github.io/anti-adblock-killer/ Allows you to bypass paywalls to zee websites as intended.
 
--[uBlock Orgin](https://github.com/gorhill/uBlock/ "uBlock Orgin")
+- [uBlock Orgin](https://github.com/gorhill/uBlock/ "uBlock Orgin")
  Biggest blocker to stop mostly trackers/ads
 How to install yourself
 
 https://github.com/gorhill/uBlock/tree/master/dist#install
 OR
-
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 > uBlock Origin rulesets - JUST COPY PASTE to My Rules in uBlock Origin settings and save
 
