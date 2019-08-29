@@ -22,11 +22,9 @@ I may leave a link idk but most ppl dont need it.
 ------------
 
 
-[-Brave](https://brave.com/ "-Brave") - A broswer that does privacy first
-
-[-Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor") Another browser that uses many other servers in the middle to protect your location
-
-[-Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
+- [Brave](https://brave.com/ "-Brave") - A broswer that does privacy first
+- [Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor") Another browser that uses many other servers in the middle to protect your location
+- [Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
 
 -[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File") Redirects server calls back to localhost and not the the company.
 
