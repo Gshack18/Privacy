@@ -1,8 +1,21 @@
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
+
+
+#About this research
+
+
 After months of doing research I have came to the conclusion of understaing what companies are doing and thus using methods to stop as much as I can. We have to understand that if the product is **FREE** [Many websites now sell our access to ad companies and whoever seems fit](https://www.vox.com/2018/4/11/17177842/facebook-advertising-ads-explained-mark-zuckerberg "Many websites now sell our access to ad companies and whoever seems fit") I believe this is wrong and we now have the ability to see what is being sold to these companies as [seen here](https://gdpr-info.eu/ "seen here") by allowing us to access these data points as seen [here](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation "here") and googles way [here](https://www.wikihow.com/Download-Your-Google-Data "here") 
+## Why Privacy
 
 Every Email, shopping, social media you have go into the privacy settings and “pause” everything that you do not like. Also turn off anything that can track your voice, geolocation, msgs, emails, etc as you see fit. It is easier to create an account and set up your privicy rules and conintue on then it is to delete the past the past is allready sold and there can be x amound of data points you have to go through to delete manually. 
 **If you want total anon then make a completely new identity for yourself after you switch your connection**
 
+### What can we do
 We all use google for whatever reason but check your privacy settings with them here. Pause Eerything basiucally and delete all history
 
 https://www.youtube.com/watch?v=vA9Z0Wr9vwE
@@ -23,9 +36,9 @@ I may leave a link idk but most ppl dont need it.
 ------------
 
 Here is most of infomation on what i use to browse the web as safe from psying eyes as possible. This only works best AFTER you have paused/cleaned up the websites as seen above. These things below just help protect you moving on because of the many diferent tactics websites use to steal that info from cookies, cache, trapnsport layering, ip, geo trak, etc to name a few. Most addons below are opensource meaning you can look at the code and see exactly what it does and handles the OSI model. IU went through each link and read the source as well as its forums to see if it can become shady or not do what it claims.
-- [Brave](https://brave.com/ "-Brave") - A broswer that does privacy first
-- [Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor") Another browser that uses many other servers in the middle to protect your location
-- [Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
+- ***[Brave](https://brave.com/ "-Brave") - A broswer that is built on  privacy 
+- ***[Tor](https://fossbytes.com/best-alternatives-to-tor-browser-to-browse-anonymously/ "-Tor") Another browser that uses many other servers in the middle to protect your location
+- ***[Pi hole](https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/ "-Pi hole") Blocks all outcoming bad things such as apps phoning home as well as bad malware coming in.
 
 > A much easier way beiow
 
@@ -34,18 +47,19 @@ Here is most of infomation on what i use to browse the web as safe from psying e
 https://homenetworkguy.com/how-to/install-pihole-on-raspberry-pi-with-docker-and-portainer/
 
 -[-Host File](https://proprivacy.com/guides/use-your-hosts-file-to-block-ads-and-malware "-Host File") Redirects server calls back to localhost and not the the company.
-## Extenstions
+## Extensions that are used to protect your privacy 
+>ea one has different blockers
 
-- [Privacy Badger](https://www.eff.org/privacybadger "-Privacy Badger")
+- *[Privacy Badger](https://www.eff.org/privacybadger "-Privacy Badger")
 - [Tampermonkey](https://github.com/Tampermonkey/tampermonkey "Tampermonkey")
 
 > How to insall 
 
  https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
-- [Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean")
+- *[Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean")
 - [DuckDuckGo Privacy Essentials](https://www.trishtech.com/2018/01/duckduckgo-privacy-essentials-extension-enhances-online-privacy/ "-DuckDuckGo Privacy Essentials")
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere") Without this websites uses the lowest security settings set forth.
-- [URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper") Stops url links from phoning home and tracking you from site to site.
+- *[HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere") Without this websites uses the lowest security settings set forth.
+- *[URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper") Stops url links from phoning home and tracking you from site to site.
 - Google Analytics Opt-out Add-on (search for it please)
 Bypass Paywalls
 
