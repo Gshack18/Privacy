@@ -72,7 +72,7 @@ then paste a few of these urls inside the adlists.list you have open in pihole
 > [Test your system leak here](https://www.hotcleaner.com/clickclean-app.html "Test your system leak here")
 - [DuckDuckGo Privacy Essentials](https://www.trishtech.com/2018/01/duckduckgo-privacy-essentials-extension-enhances-online-privacy/ "-DuckDuckGo Privacy Essentials")
 - *[HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere") Without this websites uses the lowest security settings set forth.
-- *[URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper") Stops url links from phoning home and tracking you from site to site.
+- *[URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper") Stops tracking parameters from URLs so nobody knows you used it 
 - Google Analytics Opt-out Add-on (search for it please)
 Bypass Paywalls
 
