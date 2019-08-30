@@ -68,7 +68,8 @@ then paste a few of these urls inside the adlists.list you have open in pihole
  https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
  For scripts go [here](https://greasyfork.org/en "here")
  
-- *[Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean")
+- *[Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean") Prevent sites tracking your system as well as cleaning your browser correctly.
+> [Test your system leak here](https://www.hotcleaner.com/clickclean-app.html "Test your system leak here")
 - [DuckDuckGo Privacy Essentials](https://www.trishtech.com/2018/01/duckduckgo-privacy-essentials-extension-enhances-online-privacy/ "-DuckDuckGo Privacy Essentials")
 - *[HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere") Without this websites uses the lowest security settings set forth.
 - *[URL Tracking Stripper & Redirect Skipper](https://github.com/newhouse/url-tracking-stripper "-URL Tracking Stripper & Redirect Skipper") Stops url links from phoning home and tracking you from site to site.
