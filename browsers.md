@@ -66,6 +66,8 @@ then paste a few of these urls inside the adlists.list you have open in pihole
 > How to insall 
 
  https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+ For scripts go [here](https://greasyfork.org/en "here")
+ 
 - *[Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html "-Click&Clean")
 - [DuckDuckGo Privacy Essentials](https://www.trishtech.com/2018/01/duckduckgo-privacy-essentials-extension-enhances-online-privacy/ "-DuckDuckGo Privacy Essentials")
 - *[HTTPS Everywhere](https://www.eff.org/https-everywhere "-HTTPS Everywhere") Without this websites uses the lowest security settings set forth.
